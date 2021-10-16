@@ -12,4 +12,11 @@ public class Main {
         System.out.println("Sum of Divisor "+ n + " is : " +myCalculator.divisorSum(n));
         System.out.println("The Factorial is : "+myCalculator.findFactorial(f));
     }
+    /*
+    Name: Maherab Hossen Opi
+    Id: 2012020104
+    Section : C
+    Email : cse_2012020104@lus.ac.bd
+    Date: 16 October 2021
+     */
 }
